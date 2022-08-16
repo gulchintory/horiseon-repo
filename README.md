@@ -10,3 +10,4 @@ Horiseon-2.png
 Horiseon-3.png
 
 # Deployed application link
+https://gulchintory.github.io/horiseon-repo/
